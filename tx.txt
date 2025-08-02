@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-HI this is the msg
-H
-=======
-Hi this is the msg
->>>>>>> 75027335d503635a5faa59335784449254d4edfe
+hello
